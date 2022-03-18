@@ -19,3 +19,9 @@
 
 6.Validations 
 - Zod , Yup , Joi
+
+7. Speech To Text
+ - react-speech-recognition , native speech api in javascript
+
+8. Infinite scroolling
+ - infinite scroll
